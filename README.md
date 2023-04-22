@@ -1,1 +1,2 @@
-# Underwater-runner
+# trex
+Trex game
